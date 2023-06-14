@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36155841931",
+    "project_id": "ionic-47f4b",
+    "storage_bucket": "ionic-47f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36155841931:android:2e1f1424f45e5d3820e38e",
+        "android_client_info": {
+          "package_name": "com.example.mysplitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36155841931-prsbla1ef862en297vtgjhsqkscmp8ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO9Ju3zwO_-1vNklD8VQA3QPUMe3hKlyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36155841931-prsbla1ef862en297vtgjhsqkscmp8ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

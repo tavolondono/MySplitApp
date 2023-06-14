@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>can_view_kratos</key>
+    <value>true</value>
+  </entry>
+  <entry>
+    <key>button_config</key>
+    <value>{"viewButton":true}</value>
+  </entry>
+  <entry>
+    <key>ver_boton</key>
+    <value>true</value>
+  </entry>
+  <entry>
+    <key>new_button</key>
+    <value>true</value>
+  </entry>
+  <entry>
+    <key>welcome_message</key>
+    <value>Hola desde config</value>
+  </entry>
+</defaults>
